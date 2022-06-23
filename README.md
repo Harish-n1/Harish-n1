@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Harish
-- 👀 I’m interested in Data Analyst
+- 👋 Hi, I’m @Harish Nakireddy
+- 👀 I’m currently working as Infra Developer @Amdocs
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on Data Science Projects
 - 📫 How to reach me harishn889@gmail.com
